@@ -1,0 +1,3 @@
+Now we're going to create new program 
+simmilar to HelloWorld but with some
+ specifications and math expressions 
