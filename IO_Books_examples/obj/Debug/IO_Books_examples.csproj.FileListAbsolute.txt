@@ -1,0 +1,7 @@
+D:\C#UNDWEB\projects\Shildt\IO_Books_examples\obj\Debug\IO_Books_examples.csproj.CoreCompileInputs.cache
+D:\C#UNDWEB\projects\Shildt\IO_Books_examples\bin\Debug\IO_Books_examples.exe.config
+D:\C#UNDWEB\projects\Shildt\IO_Books_examples\bin\Debug\IO_Books_examples.exe
+D:\C#UNDWEB\projects\Shildt\IO_Books_examples\bin\Debug\IO_Books_examples.pdb
+D:\C#UNDWEB\projects\Shildt\IO_Books_examples\obj\Debug\IO_Books_examples.exe
+D:\C#UNDWEB\projects\Shildt\IO_Books_examples\obj\Debug\IO_Books_examples.pdb
+D:\C#UNDWEB\projects\Shildt\IO_Books_examples\obj\Debug\IO_Books_examples.csprojAssemblyReference.cache
